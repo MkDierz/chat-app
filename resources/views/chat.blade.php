@@ -7,6 +7,7 @@
     </x-slot>
 
     <div class="py-12">
+        {{-- TODO --}}
         <div class="mx-auto max-w-7xl sm:px-6 lg:px-8 ">
             <div class="bg-white rounded-full shadow-xl">
                 <div class="grid grid-cols-4 ">

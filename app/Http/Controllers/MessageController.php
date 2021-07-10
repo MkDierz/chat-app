@@ -17,6 +17,7 @@ class MessageController extends Controller
     {
         $users = User::where('id', '!=', auth()->id())->get();
         return view('chat', compact('users'));
+        // TODO
     }
 
     /**
