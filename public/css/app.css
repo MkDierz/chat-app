@@ -1502,10 +1502,7 @@ select {
 	--tw-bg-opacity: 0.25;
 }
 .bg-base-image {
-	background-image: url('/storage/img-assets/bg.svg');
-}
-.fill-current {
-	fill: currentColor;
+	background-image: url('/img/img-assets/bg.svg');
 }
 .object-cover {
 	-o-object-fit: cover;
